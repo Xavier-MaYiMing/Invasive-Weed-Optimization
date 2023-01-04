@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![convergence curve](C:\Users\dell\Desktop\研究生\个人算法主页\Gravitational Search Algorithm\convergence curve.jpg)
+![](https://github.com/Xavier-MaYiMing/Invasive-Weed-Optimization/blob/main/convergence%20curve.png)
 
 The IWO converges at its 2000-th iteration, and the global best value is 1.4811243161587636e-06.
 
